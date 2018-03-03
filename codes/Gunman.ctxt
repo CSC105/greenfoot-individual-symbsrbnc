@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Gunman
+comment1.params=
+comment1.target=Gunman()
+comment2.params=v
+comment2.target=Gunman(int)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
